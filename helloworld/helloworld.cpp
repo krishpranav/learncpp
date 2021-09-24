@@ -7,7 +7,7 @@ using namespace std;
 int main() 
 {
     // print the text 
-    cout << "hello world";
+    cout << "hello world\n";
 
     // returns 0
     return 0;
