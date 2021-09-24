@@ -1,0 +1,12 @@
+# vscode cache
+.vscode/
+
+# jet brains cache
+.idea/ 
+
+
+# system cache
+.DS_Store
+
+# build folder
+build/
