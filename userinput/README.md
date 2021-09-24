@@ -1,8 +1,4 @@
 ## learn to get user input
 
-## About the files in this directory:
-- userinput.cpp
-
-
-## files in this directory
+## get userinput
 - [x] [`userinput.cpp`](userinput.cpp) learn to get user input
