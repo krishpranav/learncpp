@@ -10,4 +10,5 @@ learn cpp using this repo
 
 - [`helloworld`](helloworld) you can get to know how to print text in different types
 - [`variables`](variables) you can get to know how to store integers + variables
+- [`userinput`](userinput) you will get to know how to get userinputs
 - [`loops`](loops) you will get to know how to loop a proccess
