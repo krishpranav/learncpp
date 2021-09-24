@@ -1,5 +1,5 @@
 /**
- * learn to loop a process using for loop
+ * learn to loop a number using for loop
  */
 
 #include <iostream>
