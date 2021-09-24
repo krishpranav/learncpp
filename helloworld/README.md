@@ -2,6 +2,12 @@
 
 - there are two methods in printing a text:
 
+## About the files in this directory:
+- helloworld.cpp learn to print a text in c++ this is the starting point in every programming language
+- advanced-helloworld learn to print text in c++ with modern method
+- multiplelines-helloworld.cpp learn to print a text in multiple lines
+- pattern-helloworld.cpp create a pattern of a text 
+
 
 ## files in this directory 
 
