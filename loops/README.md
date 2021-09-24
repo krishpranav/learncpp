@@ -5,4 +5,5 @@
 
 
 ## files in this directory
-- [x] [`forloop.cpp`](forloop.cpp)
+- [x] [`forloopint.cpp`](forloopint.cpp) learn to for loop a integer 
+- [x] [`forlooptext.cpp`](forlooptext.cpp) learn to for loop text 
