@@ -8,5 +8,5 @@ learn cpp using this repo
 
 ## Starting point:
 
-- learn the basics on printing text in this directory
-- [`helloworld`](helloworld)
+- [`helloworld`](helloworld) you can get to know how to print text in different types
+- [`variables`](variables) you can get to know how to store integers + variables
