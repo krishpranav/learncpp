@@ -9,12 +9,12 @@ class myFirstClass
 public:
     void myfirsthelloworld()
     {
-        std::cout << "first hello world";
+        std::cout << "first hello world\n";
     };
     
     void mysecondhelloworld()
     {
-        std::cout << "second hello world";
+        std::cout << "second hello world\n";
     };
 };
 

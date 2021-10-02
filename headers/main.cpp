@@ -18,7 +18,7 @@ void secondcallbackfunction()
 
 void banner()
 {
-    std::cout << "helloworld";
+    std::cout << "helloworld\n";
 }
 
 
