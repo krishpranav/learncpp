@@ -21,3 +21,4 @@ public:
 /* using this callback function we are going to call the myfirsthelloworld, mysecondhelloworld*/
 void firstcallbackfunction();
 void secondcallbackfunction();
+void banner();
