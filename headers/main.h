@@ -15,3 +15,6 @@ public:
         std::cout << "second hello world";
     };
 };
+
+void firstcallbackfunction();
+void secondcallbackfunction();
