@@ -1,7 +1,9 @@
 #pragma once
 
+/* includes */
 #include <iostream>
 
+/* my first class */
 class myFirstClass
 {
 public:
@@ -16,5 +18,6 @@ public:
     };
 };
 
+/* using this callback function we are going to call the myfirsthelloworld, mysecondhelloworld*/
 void firstcallbackfunction();
 void secondcallbackfunction();
