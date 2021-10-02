@@ -12,3 +12,6 @@ learn cpp using this repo
 - [`variables`](variables) you can get to know how to store integers + variables
 - [`userinput`](userinput) you will get to know how to get userinputs
 - [`loops`](loops) you will get to know how to loop a proccess
+- [`classes`](classes) learn to create classes
+- [`headers`](headers) learn how to store variables, functions in a header file and call it in a .cpp file
+- [`vector`](vector) learn about vector
